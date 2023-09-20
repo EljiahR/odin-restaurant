@@ -2,6 +2,10 @@ export default function homePage(){
     const content = document.querySelector('#content');
     content.innerHTML = '';
     
+
+    document.querySelector('#home-btn').classList.add('pressed')
+    document.querySelector('#menu-btn').classList.remove('pressed')
+    document.querySelector('#contact-btn').classList.remove('pressed')
     const contentCard = document.createElement('div');
     contentCard.classList.add('content-card');
     const headline = document.createElement('h1');

@@ -24,5 +24,5 @@ export default function mainPage(){
         document.body.style.backgroundImage = "url(" + restBack.src + ")";
         document.body.appendChild(navbar);
         document.body.appendChild(content);
-        document.body.appendChild(footer);
+        //document.body.appendChild(footer);
     }
