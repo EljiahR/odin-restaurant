@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Odin Restaurant Project by Elijah Reck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EljiahR/odin-restaurant.git"
+  },
+  "author": "Elijah Reck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EljiahR/odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/EljiahR/odin-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
