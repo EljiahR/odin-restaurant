@@ -1,1 +1,2 @@
-console.log('WORK PLS')
+import mainPage from './mainpage'
+mainPage();
